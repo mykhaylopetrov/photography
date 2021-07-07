@@ -1,0 +1,13 @@
+.idea/
+ 
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+# Local History for Visual Studio Code
+.history/
+
+#если, например, папка ".idea" уже в репо и ее нужно исключить:
+# git rm -r --cached .idea
